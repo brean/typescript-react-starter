@@ -6,8 +6,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project boilerplate has been extended to use:
 
-- **typedoc** for API documentation (`npm run docs`)
-- **eslint** for code linting to find code smells like unused variables (`npm run eslint`)
+#### typedoc
+
+For API documentation (call `npm run docs`)
+
+#### eslint
+
+For code linting to find code smells like unused variables (call `npm run eslint`)
+
+### CI and Badges
+
+We also added travis-ci (see .travis.yml)
+
+[![Build Status](https://travis-ci.org/brean/typescript-react-starter.svg)](https://travis-ci.org/brean/typescript-react-starter)
+[![Coverage Status](https://coveralls.io/repos/github/brean/typescript-react-starter/badge.svg)](https://coveralls.io/github/brean/typescript-react-starter)
+[![Documentation Status](https://inch-ci.org/github/brean/typescript-react-starter.svg)](https://inch-ci.org/github/brean/typescript-react-starter)
+
 
 ## Available Scripts
 
