@@ -14,8 +14,7 @@ For API documentation (call `npm run docs`)
 
 For code linting to find code smells like unused variables (call `npm run eslint`)
 
-### CI and Badges
-
+### CI
 We also added online services:
 
 - travis-ci (as Continous integration service, see .travis.yml) and
@@ -23,9 +22,13 @@ We also added online services:
 
 If you like to host your project on a private server or with your own ci-integration take a look at the offline-branch.
 
+### Badges
+
 [![Build Status](https://travis-ci.org/brean/typescript-react-starter.svg)](https://travis-ci.org/brean/typescript-react-starter)
 [![Coverage Status](https://coveralls.io/repos/github/brean/typescript-react-starter/badge.svg)](https://coveralls.io/github/brean/typescript-react-starter)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
 
+(License badge by https://shields.io/ )
 
 ## Available Scripts
 
