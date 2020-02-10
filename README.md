@@ -17,8 +17,9 @@ For code linting to find code smells like unused variables (call `npm run eslint
 ### CI
 We also added online services:
 
-- travis-ci (as Continous integration service, see .travis.yml) and
-- coveralls (for Code Coverage reports)
+- travis-ci (as Continous integration service, see .travis.yml),
+- coveralls (for Code Coverage reports) and
+- codeclimate (for maintainability reports)
 
 If you like to host your project on a private server or with your own ci-integration take a look at the offline-branch.
 
@@ -26,6 +27,7 @@ If you like to host your project on a private server or with your own ci-integra
 
 [![Build Status](https://travis-ci.org/brean/typescript-react-starter.svg)](https://travis-ci.org/brean/typescript-react-starter)
 [![Coverage Status](https://coveralls.io/repos/github/brean/typescript-react-starter/badge.svg)](https://coveralls.io/github/brean/typescript-react-starter)
+[![Maintainability](https://api.codeclimate.com/v1/badges/597c089ea8d537a4daf0/maintainability)](https://codeclimate.com/github/brean/typescript-react-starter/maintainability)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) 
 
 (License badge by https://shields.io/ )
