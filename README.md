@@ -16,11 +16,15 @@ For code linting to find code smells like unused variables (call `npm run eslint
 
 ### CI and Badges
 
-We also added travis-ci (see .travis.yml)
+We also added online services:
+
+- travis-ci (as Continous integration service, see .travis.yml) and
+- coveralls (for Code Coverage reports)
+
+If you like to host your project on a private server or with your own ci-integration take a look at the offline-branch.
 
 [![Build Status](https://travis-ci.org/brean/typescript-react-starter.svg)](https://travis-ci.org/brean/typescript-react-starter)
 [![Coverage Status](https://coveralls.io/repos/github/brean/typescript-react-starter/badge.svg)](https://coveralls.io/github/brean/typescript-react-starter)
-[![Documentation Status](https://inch-ci.org/github/brean/typescript-react-starter.svg)](https://inch-ci.org/github/brean/typescript-react-starter)
 
 
 ## Available Scripts
