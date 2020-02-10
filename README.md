@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Additions
 
-This startup script has been extended to use
+This project boilerplate has been extended to use:
 
 - **typedoc** for API documentation (`npm run docs`)
 - **eslint** for code linting to find code smells like unused variables (`npm run eslint`)
