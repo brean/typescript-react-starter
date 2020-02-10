@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This startup script has been extended to use
 
-- **typedoc** using for API documentation (`npm run docs`)
+- **typedoc** for API documentation (`npm run docs`)
+- **eslint** for code linting to find code smells like unused variables (`npm run eslint`)
 
 ## Available Scripts
 
