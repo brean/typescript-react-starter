@@ -6,8 +6,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project boilerplate has been extended to use:
 
-- **typedoc** for API documentation (`npm run docs`)
-- **eslint** for code linting to find code smells like unused variables (`npm run eslint`)
+#### typedoc
+
+For API documentation (call `npm run docs`)
+
+#### eslint
+
+For code linting to find code smells like unused variables (call `npm run eslint`)
+
+### CI
+For travis code-integration take a look at the master or online-services branches.
+
+### Badges
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) (by https://shields.io/ )
 
 ## Available Scripts
 
