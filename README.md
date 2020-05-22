@@ -21,6 +21,10 @@ For travis code-integration take a look at the master or online-services branche
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) (by https://shields.io/ )
 
+### Material Design Wrapper for frontend UI
+
+This branch uses the material Design UI, take a look at other branches if you like to use another ui frontend.
+
 ## Available Scripts
 
 In the project directory, you can run:
